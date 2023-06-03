@@ -1,0 +1,5 @@
+project: microbin
+target: to_u64
+
+cmds:
+  - cmd: /to_u64
